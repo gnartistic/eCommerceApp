@@ -10,6 +10,8 @@ const sequelize = process.env.JAWSDB_URL
       dialectOptions: {
         decimalNumbers: true,
       },
-    });
+  });
+    
+console.log('Connected to eCommerce database!');
 
 module.exports = sequelize;
