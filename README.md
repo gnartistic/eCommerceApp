@@ -24,7 +24,7 @@
   
   ## Usage-Information
   
-  to start the server on your localhost, run this code in your command line 
+  To start the server, run this code in your command line 
   ```npm start```
   
   You can then play with the data via http://localhost:3001/api/ in insomnia, or view it in your browser. The endpoints you may use are /catergoies, /products, and /tags.
